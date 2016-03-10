@@ -15,4 +15,4 @@ Then run
 <pre>npm install</pre>
 
 To install the dependencies specified in the package.json file under "dependencies".
-In this case the [_color_](https://www.npmjs.com/package/color) and the [_sendMail_](https://www.npmjs.com/package/sendmail) modules.
+In this case the [_sendMail_](https://www.npmjs.com/package/sendmail) module.
